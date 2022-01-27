@@ -2,6 +2,6 @@ voila
 ipywidgets
 numpy==1.21.4
 Pillow==8.4.0
-python3-opencv
+opencv-python-headless==4.2.0.32
 scipy
 imutils
